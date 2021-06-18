@@ -1,0 +1,10 @@
+.label-default {
+  display: block;
+  margin: 8px;
+  font-size: small;
+  color: grey;
+}
+
+.label-error {
+  color: red;
+}
